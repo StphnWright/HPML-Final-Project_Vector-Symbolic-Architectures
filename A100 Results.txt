@@ -1,0 +1,83 @@
+>> demo_gpu
+Using GPU: NVIDIA A100-SXM4-80GB
+
+Bundling vectors for VSA type: MAP_C
+Elapsed time: 0.022412 seconds
+Binding vectors for VSA type: MAP_C
+Elapsed time: 0.062941 seconds
+------- unbinding:
+Finding k vectors for VSA type: MAP_C
+Found probe vector with similarity of 1.00000
+Found noisy vector with similarity of 0.68961
+
+Bundling vectors for VSA type: MAP_B
+Elapsed time: 0.009806 seconds
+Binding vectors for VSA type: MAP_B
+Elapsed time: 0.061618 seconds
+------- unbinding:
+Finding k vectors for VSA type: MAP_B
+Found probe vector with similarity of 1.00000
+Found noisy vector with similarity of 0.50226
+
+Bundling vectors for VSA type: MAP_I
+Elapsed time: 0.008243 seconds
+Binding vectors for VSA type: MAP_I
+Elapsed time: 0.058978 seconds
+------- unbinding:
+Finding k vectors for VSA type: MAP_I
+Found probe vector with similarity of 1.00000
+Found noisy vector with similarity of 0.70772
+
+Bundling vectors for VSA type: BSC
+Elapsed time: 0.013181 seconds
+Binding vectors for VSA type: BSC
+Elapsed time: 0.062333 seconds
+------- unbinding:
+Finding k vectors for VSA type: BSC
+Found probe vector with similarity of 1.00000
+Found noisy vector with similarity of 0.75046
+
+Bundling vectors for VSA type: BSDC
+Elapsed time: 0.015418 seconds
+Binding vectors for VSA type: BSDC
+Elapsed time: 0.12136 seconds
+------- unbinding:
+Finding k vectors for VSA type: BSDC
+Found probe vector with similarity of 0.25000
+Found noisy vector with similarity of 0.49805
+
+Bundling vectors for VSA type: BSDC_SHIFT
+Elapsed time: 0.008314 seconds
+Binding vectors for VSA type: BSDC_SHIFT
+Elapsed time: 0.12316 seconds
+------- unbinding:
+Finding k vectors for VSA type: BSDC_SHIFT
+Found probe vector with similarity of 0.25000
+Found noisy vector with similarity of 0.49609
+
+Bundling vectors for VSA type: BSDC_SEG
+Elapsed time: 0.010156 seconds
+Binding vectors for VSA type: BSDC_SEG
+Elapsed time: 0.3766 seconds
+------- unbinding:
+Finding k vectors for VSA type: BSDC_SEG
+Found probe vector with similarity of 0.25000
+Found noisy vector with similarity of 0.49805
+
+Bundling vectors for VSA type: HRR
+Elapsed time: 0.006905 seconds
+Binding vectors for VSA type: HRR
+Elapsed time: 0.19003 seconds
+------- unbinding:
+Finding k vectors for VSA type: HRR
+Found probe vector with similarity of 1.00000
+Found noisy vector with similarity of 0.70981
+
+Bundling vectors for VSA type: FHRR
+Elapsed time: 0.000442 seconds
+Binding vectors for VSA type: FHRR
+Elapsed time: 0.17091 seconds
+------- unbinding:
+Finding k vectors for VSA type: FHRR
+Found probe vector with similarity of 1.00000
+Found noisy vector with similarity of 0.63510
